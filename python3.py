@@ -17,7 +17,7 @@ mahmuy: "jalan - jalan kemana bro?"
 hobloh: "ke Mang Uing bro!!!!"
 """
 
-text8 = r'C:\nyoto' # raw string --> bagaimanakah hasil ini??
+text8 = r'C:\nyoto' # raw string, bagaimana hasil ini? hasil text
 
 print(text8)
 print(5*"wk")

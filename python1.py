@@ -18,10 +18,14 @@ c = a / b
 print("hasil a/b =", c)
 
 # pembagian pembulatan keatas
-# silakan diisi bagaimana formulanya
+c = a / b
+c = round(c)
+print("hasil a/b = ",c)
 
 # modulus
-# silakan diisi bagaimana formulanya
+c = a % b
+print("hasil a % b = ", c)
 
 # pangkat
-# silakan diisi bagaimana formulanya
+c = a ** b
+print("hasil a ** b = ", c)
